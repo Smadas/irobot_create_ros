@@ -4,7 +4,7 @@ A ROS package with URDF and SDF description of iRobot create with laser sensors 
 Robot listens on commands on /cmd_vel topic
 
 You can use it with aditional packages:
-To generate a maze
-Smadas/maze_generator_ros
-To create a control algorithm
-Smadas/create_control_ros
+<br>To generate a maze
+<br>Smadas/maze_generator_ros
+<br>To create a control algorithm
+<br>Smadas/create_control_ros
