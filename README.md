@@ -9,4 +9,4 @@ You can use it with aditional packages:
 <br>To create a control algorithm
 <br>Smadas/create_control_ros
 
-Oh, sorry for the mishap about the different naming of repo and actual ROS package. Someone is going to damn me real bad.
+Please be aware of the different naming of repo and actual ROS package.
